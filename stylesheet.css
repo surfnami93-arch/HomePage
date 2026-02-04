@@ -41,9 +41,9 @@ input {
 
 .loader-wrapper {
     position:absolute;
+    z-index:10;
     height:100%;
     width:100%;
-    z-index:99;
     text-align:center;
     margin:0 auto;
     background-color:white;
@@ -101,7 +101,7 @@ input {
     margin-top:65px;
     padding-bottom:30px;
     background-color: rgba(73, 71, 71, 0.5);
-    height: 520px;
+    min-height:78vh;
     width: 1200px;
     display:inline-block;
 }
@@ -175,3 +175,4 @@ input {
     border-top:1px solid white;
 
 }
+
