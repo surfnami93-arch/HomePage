@@ -141,13 +141,16 @@ input {
 }
 
 .left-links i {
-    display:inline-block;
-    margin-right:20px;
+    box-sizing:border-box;
     font-size:25px;
 }
 
-.youtube-icon {
+.left-links a {
+    display:inline-block;
     margin-left:20px;
+}
+
+.youtube-icon {
     color:#ff0033;
 }
 
@@ -175,4 +178,5 @@ input {
     border-top:1px solid white;
 
 }
+
 
