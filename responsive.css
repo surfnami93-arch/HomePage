@@ -50,8 +50,8 @@
         margin:0 50px;
     }
 
-    .youtube-icon {
-        margin-left:0px;
+    .left-links a.youtube-icon {
+        margin-left: 0;
     }
 
     .main-contents {
@@ -60,4 +60,5 @@
         height:95%;
     }
 }
+
 
