@@ -37,6 +37,10 @@
         width:100%;
     }
 
+    .username {
+        margin-left:0px;
+    }
+
     .left-links {
         width:100%;
         text-align:center;
@@ -60,6 +64,7 @@
         margin:0 50px;
     }
 }
+
 
 
 
