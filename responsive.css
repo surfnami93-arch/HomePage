@@ -35,7 +35,6 @@
     .main-left {
         display:block;
         width:100%;
-        float:center;
     }
 
     .left-links {
@@ -61,6 +60,7 @@
         margin:0 50px;
     }
 }
+
 
 
 
