@@ -43,6 +43,15 @@
         margin-left:0px;
     }
 
+    .user-explains > p:last-of-type {
+        margin-right:0px;
+        margin-left:15px;
+    }
+
+    .user-explains > p:first-of-type {
+        margin-right:15px;
+    }
+
     .left-links {
         width:100%;
         text-align:center;
@@ -66,6 +75,7 @@
         margin:0 50px;
     }
 }
+
 
 
 
