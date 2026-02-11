@@ -1,6 +1,11 @@
 /* タブレット向けのレイアウト */
 @media all and (max-width: 1000px) {
 
+    .main {
+        max-width:1000px;
+        width:100%;
+    }
+
     .top-wrapper {
         width:800px;
     }
@@ -20,7 +25,8 @@
 @media all and (max-width: 768px) {
 
     .main {
-        width:768px;
+        max-width:768px;
+        width:100%;
     }
 
     .top-wrapper {
@@ -79,6 +85,7 @@
         margin:0 50px;
     }
 }
+
 
 
 
