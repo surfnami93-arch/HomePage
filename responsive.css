@@ -20,7 +20,7 @@
 @media all and (max-width: 768px) {
 
     .main {
-        width:178px;
+        width:768px;
     }
 
     .top-wrapper {
@@ -79,6 +79,7 @@
         margin:0 50px;
     }
 }
+
 
 
 
