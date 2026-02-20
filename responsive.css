@@ -33,6 +33,7 @@
         box-sizing: border-box;
         max-width:400px;
         height:800px;
+        marging:0 30px;
         margin-bottom:80px;
     }
 
@@ -86,6 +87,7 @@
         width: 80px;
     }
 }
+
 
 
 
