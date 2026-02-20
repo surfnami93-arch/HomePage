@@ -63,25 +63,25 @@ input {
 }
 
 .loader {
-  width: 20px;
-  height: 20px;
-  border: 6px solid white;        /* 薄い円 */
-  border-top: 6px solid #3498db; /* 回っている部分 */
-  border-radius: 50%;
-  animation: spin 1.2s linear infinite;
-  position: fixed;
-  top: 47%;
-  left: 48.8%;
-  transform: translate(-50%, -50%);
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    border: 6px solid white;        /* 薄い円 */
+    border-top: 6px solid #3498db; /* 回っている部分 */
+    border-radius: 50%;
+    animation: spin 1.2s linear infinite;
+    position: fixed;
+    top: 47%;
+    transform: translate(-50%, -50%);
 }
 
 @keyframes spin {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 /* メイン */
@@ -174,6 +174,7 @@ input {
 .right-content ul > li:first-of-type {
     border-top:1px solid white;
 }
+
 
 
 
