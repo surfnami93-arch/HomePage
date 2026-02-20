@@ -72,6 +72,7 @@ input {
     animation: spin 1.2s linear infinite;
     position: fixed;
     top: 47%;
+    left:48%;
     transform: translate(-50%, -50%);
 }
 
@@ -174,6 +175,7 @@ input {
 .right-contents ul > li:first-of-type {
     border-top:1px solid white;
 }
+
 
 
 
